@@ -4,7 +4,7 @@ The application is also the implementation of the Reverse Polish notation algori
 - If the input is invalid, it will prompt the users to reenter.
 - After getting the input, it valiates and starts calculate the result and then shows it in the console
 - During the caculating, it will show error message and clear the stack if the result is NaN.
-- It keep repeating the above steps unil the user enter 'q or Q'
+- It keeps repeating the above steps until the users enter 'q or Q'
 
 # Reasoning behind technical choices, including architectural
 I picked Node.js because I feel most comfortable coiding in Javascript, and it's also very simple to compolie and test it.
